@@ -16,7 +16,7 @@ function draw() {
 }
 
 
-//class definition below
+//Arrow class
 class Arrow {
 	constructor(x, y, rotation) {
 		this.x = x;
